@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Éditeur de Spyder
-
-Ceci est un script temporaire.
 """
 
 #-------------------------Ouverture du fichier pour la lecture-------------------------
